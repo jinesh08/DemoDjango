@@ -93,7 +93,7 @@ packaging==17.1
 pdfkit==0.6.1
 pdfrw==0.4
 pilkit==1.1.13
-Pillow==4.3.0
+Pillow==6.2.0
 pip-upgrader==1.4.4
 pyasn1==0.1.9
 pycparser==2.14
