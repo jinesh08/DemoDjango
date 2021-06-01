@@ -135,7 +135,7 @@ terminaltables==3.1.0
 tinycss2==0.5
 unicodecsv==0.14.1
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 uuid==1.30
 vine==1.1.4
 virtualenv==16.0.0
