@@ -7,7 +7,7 @@ boto==2.44.0
 cairocffi==0.8.0
 CairoSVG==1.0.22
 celery==3.1.23
-certifi==2017.7.27.1
+certifi==2022.12.7
 cffi==1.7.0
 chardet==3.0.4
 colorclass==2.2.0
